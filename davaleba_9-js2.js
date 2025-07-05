@@ -72,3 +72,4 @@ while(strt<=34){
 }
 
 console.log(res);
+console.log("");
