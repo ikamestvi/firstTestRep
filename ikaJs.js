@@ -45,3 +45,5 @@ console.log(phones);
 
 //8)დაბეჭდეთ phones მასივის პირველი და ბოლო ელემენტი ( ცალ-ცალკე console.log ეგში)
 console.log("first element: " + phones[0], "\nlast element: " + phones[phones.length-1])
+
+
